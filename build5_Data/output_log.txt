@@ -1,0 +1,86 @@
+Initialize engine version: 4.2.1f4 (4d30acc925c2)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1404]
+    Renderer: AMD Radeon HD 7700 Series
+    Vendor:   ATI
+    VRAM:     1007 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Александр\Desktop\2dgame\2dGame\build5_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Александр\Desktop\2dgame\2dGame\build5_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Александр\Desktop\2dgame\2dGame\build5_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Александр\Desktop\2dgame\2dGame\build5_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Александр\Desktop\2dgame\2dGame\build5_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Александр\Desktop\2dgame\2dGame\build5_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Александр\Desktop\2dgame\2dGame\build5_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Александр\Desktop\2dgame\2dGame\build5_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.062 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Александр\Desktop\2dgame\2dGame\build5_Data\Managed\Boo.Lang.dll (this message is harmless)
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 1494)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+UnloadTime: 54.263676 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 179 unused Assets to reduce memory usage. Loaded Objects now: 1707.
+Total: 2.065285 ms (FindLiveObjects: 0.091557 ms CreateObjectMapping: 0.075520 ms MarkObjects: 0.253969 ms  DeleteObjects: 0.942980 ms)
+
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 1494)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+UnloadTime: 47.775070 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 396 unused Assets to reduce memory usage. Loaded Objects now: 1707.
+Total: 3.543322 ms (FindLiveObjects: 0.116341 ms CreateObjectMapping: 0.113134 ms MarkObjects: 0.283127 ms  DeleteObjects: 2.313131 ms)
+
+UnloadTime: 3.623799 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1691.
+Total: 1.031622 ms (FindLiveObjects: 0.065023 ms CreateObjectMapping: 0.031199 ms MarkObjects: 0.244055 ms  DeleteObjects: 0.006998 ms)
+
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 1494)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 1494)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 1494)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
